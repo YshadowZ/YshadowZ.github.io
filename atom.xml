@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>yshadowz&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-10-16T09:13:25.470Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>YshadowZ</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇</title>
+    <link href="http://yoursite.com/2017/10/16/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>http://yoursite.com/2017/10/16/第一篇/</id>
+    <published>2017-10-16T08:18:33.000Z</published>
+    <updated>2017-10-16T09:13:25.470Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="flag"><a href="#flag" class="headerlink" title="flag"></a>flag</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;flag&quot;&gt;&lt;a href=&quot;#flag&quot; class=&quot;headerlink&quot; title=&quot;flag&quot;&gt;&lt;/a&gt;flag&lt;/h1&gt;
+      
+    
+    </summary>
+    
+      <category term="other" scheme="http://yoursite.com/categories/other/"/>
+    
+    
+      <category term="flag" scheme="http://yoursite.com/tags/flag/"/>
+    
+  </entry>
+  
+</feed>
